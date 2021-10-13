@@ -1,2 +1,2 @@
 id	name	sex	math	english
-1	james	male	100	99	
+2	rose	male	99	66	

@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/dishorder/dishorder.iml" filepath="$PROJECT_DIR$/dishorder/dishorder.iml" />
       <module fileurl="file://$PROJECT_DIR$/handnote/handnote.iml" filepath="$PROJECT_DIR$/handnote/handnote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imagealbum/imagealbum.iml" filepath="$PROJECT_DIR$/imagealbum/imagealbum.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/javaminiproject.iml" filepath="$PROJECT_DIR$/.idea/javaminiproject.iml" />
       <module fileurl="file://$PROJECT_DIR$/stumanage/stumanage.iml" filepath="$PROJECT_DIR$/stumanage/stumanage.iml" />
     </modules>
